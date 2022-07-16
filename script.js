@@ -2,10 +2,6 @@ const block = document.body.querySelector(".block")
 
 const wrapper = document.body.querySelector(".wrapper")
 
-
-
-
-
 let positionX = 0;
 let positionY = 0;
 
